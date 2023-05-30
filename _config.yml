@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michelle X. Bui"
-  avatar           : # "avi.png"
+  avatar           : "avi.png"
   bio              : "Hi! I am a second-year Deans Scholar and graduate research assistant at Cornell University, where I study E-Region ionospheric irregularities under Dr. David Hysell."
   location         : "Cornell University"
   employer         :
