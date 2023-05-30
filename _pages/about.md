@@ -14,4 +14,4 @@ Previously, I completed an Honors B.S. in Physics with minor in Mathematics thro
 
 Education is another passion of mine. I worked as an academic tutor at Porter Tutoring (Arlington, TX) for college-level courses such as Physics I-II and calculus courses as well as high school physics and math. I also developed and taught curriculum for SAT/ACT preparation and homeschool sciences for middle and high school levels. 
 
-Aside from academics, I spend my time enjoying music and amateurly playing a handful of instruments. Painting and embroidering are my favorite ways to relax. I also consume a fair amount of movies and shows, and my current favorites are The Graduate (1967) and Succession (2018-).
+Aside from academics, I spend my time enjoying music and amateurly playing a handful of instruments. Painting and embroidering are my favorite ways to relax. I also consume a fair amount of movies and shows, and my current favorites are Phantom Thread (2017) and Succession (2018-2023).
