@@ -56,10 +56,10 @@ Publications
 ======
 * Bui, M.; Hysell, D.; Larsen, Miguel. (2023) Midlatitude Sporadic E-Layer Horizontal Struc-
 turing Modulated by Neutral Instability and Mixing in the Lower Thermosphere. Journal
-of Geophysical Research: Space Physics. 128(2). [https://doi.org/10.1029/2022JA030929]
+of Geophysical Research: Space Physics. 128(2). [https://doi.org/10.1029/2022JA030929] 
 * Bui, M.; Lopez, R.E. (2021) Comparing Approximate Total Current of the Dayside Magne-
 topause to Solar Wind Pressure. McNair Scholars Research Journal, Vol. 24. University of
-Texas at Arlington Libraries. [http://hdl.handle.net/10106/29689]
+Texas at Arlington Libraries. [http://hdl.handle.net/10106/29689] 
   
 Service and leadership
 ======
