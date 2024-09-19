@@ -1,7 +1,7 @@
 ---
 title: "Comparing Approximate Total Current of the Dayside Magnetopause to Solar Wind Pressure"
 collection: publications
-permalink: /publication/UTAMcNair20210204.md
+permalink: /publication/UTAMcNair20210204
 excerpt: 'We investigated a possible relationship between current along the dayside magnetopause and solar wind pressure, calculated and gathered from THEMIS and OMNIWeb respectively. Results show similar positive statistical correlations between the approximate total current of the dayside magnetopause to solar wind pressure during periods of northward and southward orientation of interplanetary magnetic field.'
 date: 2021-02-04
 venue: 'University of Texas at Arlington McNair Scholars Research Journal'
