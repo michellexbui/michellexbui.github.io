@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a copy of my most recent [CV](/files/latex_cv_research.pdf).
+Here is a link to my full [CV](/files/latex_cv_research.pdf).
 
 Education
 ======
