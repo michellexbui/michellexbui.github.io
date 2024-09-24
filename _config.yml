@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michelle X. Bui"
 title_separator          : "-"
 name                     : &name "Michelle X. Bui"
-description              : &description "Second-year atmospheric sciences graduate student at Cornell University, studying E Region ionospheric irregularities under Dr. David Hysell."
+description              : &description "MS in Atmospheric Sciences at Cornell University; Honors BS in Physics with minor in Mathematics"
 url                      : https://michellexbui.github.io # the base hostname & protocol for your site e.g. "https://michellexbui.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michellexbui/michellexbui.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michelle X. Bui"
   avatar           : "avi.png"
-  bio              : "Hi! I am a second-year Deans Scholar and graduate research assistant at Cornell University, where I study E-Region ionospheric irregularities under Dr. David Hysell."
+  bio              : "Hi! I am a recent graduate of Cornell University with an MS in Atmospheric Sciences and an Honors BS in Physics with a minor in Mathematics."
   location         : "Cornell University"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UwWnVeAAAAAJ&hl=en"
-  email            : "mb2374@cornell.edu"
+  email            : "michellexbui@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
