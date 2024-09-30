@@ -29,14 +29,12 @@ My available subjects include:
 |                             | Trigonometry                    |
 |                             | Algebra                         |
 |                             | Pre-Algebra                     |
-| --------------------------- | ------------------------------- |
 | University/College Sciences | Physics I: Mechanics            |
 |                             | Physics II: Electromagnetism    |
 |                             | Physics III: Modern Physics     |
 |                             | General Chemistry I             |
 |                             | General Chemistry II            |
 |                             | Intro to Computer Science       |
-| --------------------------- | ------------------------------- |
 | AP/IB-Level Courses         | AP Physics 1                    |
 |                             | AP Physics 2                    |
 |                             | AP Physics C: Mechanics         |
