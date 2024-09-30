@@ -12,4 +12,3 @@ We investigated a possible relationship between current along the dayside magnet
 
 [Download paper here](http://michellexbui.github.io/files/UTAMcNair20210204.pdf)
 
-Recommended citation: Bui, Michelle; Lopez, Ramon. (2021). &quot;Comparing Approximate Total Current of the Dayside Magnetopause to Solar Wind Pressure.&quot; <i>University of Texas at Arlington McNair Scholars Research Journal</i>. 24.
