@@ -61,6 +61,4 @@ Any take-home materials, such as homeworks and tests, is **free of charge!** I'm
 | SAT + Essay                 | 8 weeks   | 20 sessions + 2 Full Tests, 7 Take-Home Section Tests, 19 Homeworks |  
 | ACT                         | 8 weeks   | 20 sessions + 2 Full Tests, 7 Take-Home Section Tests, 19 Homeworks | 
 
-# Request a Tutoring Session Today!
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIupL2bAvnRrdrdcfn-UIbptEAiugov0o_3hZCkhURjvZUbQ/viewform?embedded=true" width="640" height="1217" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
