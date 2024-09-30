@@ -31,7 +31,7 @@ Research experience
    
 Work experience
 ======
-* Fall 2024-Present: Professional Tutor at Tompkins-Cortland Community College (Dryden, NY)
+* Fall 2024-Present: Adjunct Professional Tutor at Tompkins-Cortland Community College (Dryden, NY)
   * Tutoring experience in Physics I-II, Chemistry I-II, Calculus I-III, Pre-Calculus, College Algebra, Statistics, and other related courses.
 * Summer 2017-Present: Private Academic Tutor (Virtual and in-person)
   * Tutoring experience in college-high school math/sciences, AP-level math/sciences, SAT/ACT prep, and ESL for Vietnamese speakers.
