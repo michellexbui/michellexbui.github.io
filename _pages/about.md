@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Michelle! I am a recent MS graduate and former physics major who loves the Sun and Earth's magnetosphere. I'm also passionate about teaching and working towards an effective, welcoming education system.
 
-### About my research experience
+## About my research experience
 
 I recently finished my MS in Atmospheric Sciences at Cornell University, where I worked with Dr. David Hysell's [aeronomy research group](http://landau.geo.cornell.edu) to study small-scale irregularities in Earth's E-region ionosphere. These small-scale irregularities occur in dense, sporadic ionization layers, which we can observe through [coherent scatter radar echoes](http://landau.geo.cornell.edu/zeman.html). The radar echoes revealed structures and patterns within these ionization layers. With the help of Dr. Miguel Larsen, we connected these structures and patterns with the plausible behavior of dynamic thermospheric winds in the upper atmosphere. I simulated this wind behavior and tested its possibility of driving a plasma response that resembled our observations ([Bui et al., 2023](https://doi.org/10.1029/2022JA030929); [Hysell et al., 2024](https://doi.org/10.1029/2024JA033088)).
 
@@ -20,7 +20,7 @@ In Dr. Ramon Lopez's research group, I studied electromagnetic relationships in 
 
 In Dr. Daniel Welling's research group, I branched into more interdisciplinary space physics research. I investigated ground-level space weather impacts using magnetometer data from the [SuperMAG database](https://supermag.jhuapl.edu). I contributed to the creation of an index estimating magnetic field perturbations by triangulating field data. This index was used in a collaboration with Dr. Ben Winger's ornithology research group at University of Michigan, where they studied a correlation between deviations in bird migration and space weather phenomena ([Gulson-Castillo et al., 2024](https://doi.org/10.1073/pnas.2306317120)). In another project, I also contributed to a study of plasma outflow into the magnetosphere through the [CUSIA group](https://cusia.uta.edu). This plasma outflows from Earth's ionosphere near the polar regions, and asymmetries in these outflows can be connected to the motion and tilt of the magnetotail. I examined the specific causes of magnetotail tilt by comparing mass, motion, and field data from [NASA Cluster data](https://cdaweb.gsfc.nasa.gov) and several versions of the [Tsyganenko empirical magnetic field model](https://doi.org/10.1016/0032-0633(89)90066-4) ([Bui et al, 2020](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/737735)).
 
-### About my teaching, tutoring, and outreach
+## About my teaching, tutoring, and outreach
 
 I believe that a teacher and mentor should be effective, intentional, and patient in order to build strong, independent learners. I have taught and mentored a variety of students with various goals and needs, including many nontraditional and first-generation college students. I deeply believe that education and academia is a place for everyone.
 
@@ -28,6 +28,6 @@ I currently work as an Adjunct Instructor and Professional Tutor at [Tompkins-Co
 
 Through my local chapter of Women in Physics at UT Arlington, I also founded an outreach program to encourage middle and high school students to pursue STEM careers. I recruited my peers to host hands-on science activities at local schools and mentored middle and high school students.
 
-### Other things about me
+## Other things about me
 
 Aside from academics, I spend my time enjoying music and amateurly playing instruments. Painting, embroidering, and cooking are some of my favorite ways to relax. Recent additions to my favorite media include Anatomy of a Murder (1959) and Succession (2018-2023).
