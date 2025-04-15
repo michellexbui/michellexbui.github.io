@@ -13,6 +13,7 @@ Here is a link to my full [CV](/files/latex_cv_research.pdf).
 
 Education
 ======
+* Ph.D. in Space Sciences, University of Michigan, 2025-
 * M.S. in Atmospheric Sciences, Cornell University, 2021-2024
 * Honors B.S. in Physics, Minor in Mathematics, University of Texas at Arlington, 2017-2021
 
@@ -31,7 +32,7 @@ Research experience
    
 Work experience
 ======
-* Fall 2024-Present: Adjunct Professional Tutor at Tompkins-Cortland Community College (Dryden, NY)
+* Fall 2024-Spring 2025: Adjunct Professional Tutor at Tompkins-Cortland Community College (Dryden, NY)
   * Tutoring experience in Physics I-II, Chemistry I-II, Calculus I-III, Pre-Calculus, College Algebra, Statistics, and other related courses.
 * Summer 2017-Present: Private Academic Tutor (Virtual and in-person)
   * Tutoring experience in college-high school math/sciences, AP-level math/sciences, SAT/ACT prep, and ESL for Vietnamese speakers.
