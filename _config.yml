@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michelle X. Bui"
 title_separator          : "-"
 name                     : &name "Michelle X. Bui"
-description              : &description "MS in Atmospheric Sciences (Cornell University); Honors BS in Physics with minor in Mathematics (UT Arlington)"
+description              : &description "Fall 2025 PhD Student in Space Sciences (U-Michigan); MS in Atmospheric Sciences (Cornell University); Honors BS in Physics with minor in Mathematics (UT Arlington)"
 url                      : https://michellexbui.github.io # the base hostname & protocol for your site e.g. "https://michellexbui.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michellexbui/michellexbui.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Michelle X. Bui"
-  avatar           : "me_sunflowers.png"
-  bio              : "MS in Atmospheric Sciences at Cornell University; Honors BS in Physics with minor in Mathematics."
-  location         : "Ithaca, NY"
+  avatar           : "HEADSHOT.jpg"
+  bio              : "Incoming Fall 2025 PhD Student in Space Sciences at U-Michigan; MS in Atmospheric Sciences at Cornell University; Honors BS in Physics with minor in Mathematics."
+  location         : "Ithaca, NY => Ann Arbor, MI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UwWnVeAAAAAJ&hl=en"
