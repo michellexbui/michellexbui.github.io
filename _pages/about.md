@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Michelle! I am a recent MS graduate and former physics major who loves the Sun and Earth's magnetosphere. I'm also passionate about teaching and working towards a more effective, welcoming education system.
+Hi, I'm Michelle! I am an incoming PhD student, MS graduate, and former physics major who loves the Sun and Earth's magnetosphere. I'm also passionate about teaching and working towards a more effective, inclusive academia.
 
-Feel free to reach out to me via email at mb2374@cornell.edu
+Feel free to reach out to me via email at mxbui@umich.edu
 
 ## About my research experience
 
-I recently finished my MS in Atmospheric Sciences at Cornell University, where I worked with Dr. David Hysell's [aeronomy research group](http://landau.geo.cornell.edu) to study small-scale irregularities in Earth's E-region ionosphere. These small-scale irregularities occur in dense, sporadic ionization layers, which we can observe through [coherent scatter radar echoes](http://landau.geo.cornell.edu/zeman.html). The radar echoes revealed structures and patterns within these ionization layers. With the help of Dr. Miguel Larsen, we connected these structures and patterns with the plausible behavior of dynamic thermospheric winds in the upper atmosphere. I simulated this wind behavior and tested its possibility of driving a plasma response that resembled our observations ([Bui et al., 2023](https://doi.org/10.1029/2022JA030929); [Hysell et al., 2024](https://doi.org/10.1029/2024JA033088)).
+I finished my MS in Atmospheric Sciences at Cornell University, where I worked with Dr. David Hysell's [aeronomy research group](http://landau.geo.cornell.edu) to study small-scale irregularities in Earth's E-region ionosphere. These small-scale irregularities occur in dense, sporadic ionization layers, which we can observe through [coherent scatter radar echoes](http://landau.geo.cornell.edu/zeman.html). The radar echoes revealed structures and patterns within these ionization layers. With the help of Dr. Miguel Larsen, we connected these structures and patterns with the plausible behavior of dynamic thermospheric winds in the upper atmosphere. I simulated this wind behavior and tested its possibility of driving a plasma response that resembled our observations ([Bui et al., 2023](https://doi.org/10.1029/2022JA030929); [Hysell et al., 2024](https://doi.org/10.1029/2024JA033088)).
 
 Previously, I completed an Honors B.S. in Physics with minor in Mathematics at University of Texas at Arlington. During my undergraduate degree, I worked for two geospace physics research groups.
 
@@ -26,12 +26,12 @@ In Dr. Daniel Welling's research group, I branched into more interdisciplinary s
 
 I believe that a teacher and mentor should be effective, intentional, and patient in order to build strong, independent learners. I have taught and mentored a variety of students with various goals and needs, including many nontraditional and first-generation college students. I deeply believe that education and academia is a place for everyone.
 
-I currently work as an Adjunct Instructor and Professional Tutor at [Tompkins-Cortland Community College](https://www.tompkinscortland.edu/library/tutoring-schedule) (Dryden, NY). I teach an accelerated Introduction to Databases course for students pursuing associates degrees in Computer Science, Information Science, Information Technology, Accounting, and similar majors. At the Math & Science Tutoring Center, I specialize in Physics I-II, Calculus I-III, Pre-Calculus, College Algebra, Introduction to Computer Science, and Technology courses. Previously, I worked as an Academic Instructor and Tutor at [Porter Tutoring](https://www.portertutoring.com) (Arlington, TX). I developed curriculum and instruction for SAT/ACT preparation courses as well as homeschool math and sciences for nontraditional middle to high school students. In addition to teaching, I also tutored college and K-12 students in math and sciences. 
+I recently worked as an Adjunct Instructor and Professional Tutor at [Tompkins-Cortland Community College](https://www.tompkinscortland.edu/library/tutoring-schedule) (Dryden, NY). I taught an accelerated Introduction to Databases course for students pursuing associates degrees in Computer Science, Information Science, Information Technology, Accounting, and similar majors. At the Math & Science Tutoring Center, I specialized in Physics I-II, Calculus I-III, Pre-Calculus, College Algebra, Introduction to Computer Science, and Technology courses. Prior to this, I worked as an Academic Instructor and Tutor at [Porter Tutoring](https://www.portertutoring.com) (Arlington, TX). I developed curriculum and instruction for SAT/ACT preparation courses as well as homeschool math and sciences for nontraditional middle to high school students. In addition to teaching, I also tutored college and K-12 students in math and sciences. 
 
 Through my local chapter of Women in Physics at UT Arlington, I also founded an outreach program to encourage middle and high school students to pursue STEM careers. I recruited my peers to host hands-on science activities at local schools and mentored middle and high school students.
 
 ## Other things about me
 
-Aside from academics, I spend my time enjoying music and amateurly playing instruments. Painting, embroidering, and cooking are some of my favorite ways to relax. Recent additions to my favorite media include Anatomy of a Murder (1959) and Succession (2018-2023).
+Aside from academics, I spend my time enjoying music and amateurly playing instruments. Painting, embroidering, and cooking are some of my favorite ways to relax. Recent additions to my favorite media include Anatomy of a Murder (1959) and Succession (2018-2023). 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5NB7l-1kcgLGMqCgrOrR-ek2FJHURhFX0lYH5om7Zkc"></script>
