@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=UwWnVeAAAAAJ&hl=en).
 
-<script id="clstr_globe" lang="en" src="//www.jung.ms/citations.txt"></script>
+<script id="UwWnVeAAAAAJ" lang="en" src="//www.jung.ms/citations.txt"></script>
 
 {% include base_path %}
 
