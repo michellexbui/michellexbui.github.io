@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Michelle! I am an incoming PhD student and former physics major who loves the Sun and Earth's magnetosphere. I'm also passionate about teaching and working towards a more effective, inclusive academia.
+Hi, I'm Michelle! I am a Fall 2025 Space Sciences PhD student at U-Michigan CLASP and former physics major who loves the Sun and Earth's magnetosphere. I'm also passionate about teaching and working towards a more effective, inclusive academia.
 
 Feel free to reach out to me via email at mxbui@umich.edu
 
