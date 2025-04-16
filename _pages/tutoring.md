@@ -48,7 +48,7 @@ My available subjects include:
 
 # Test Preparation
 
-At Porter Tutoring (Dallas-Fort Worth, TX) I developed curriculum and instructed for their PSAT, SAT, and ACT preparation program. I watched my students exceed their program requirements and achieve scholarship-level scores!
+At Porter Tutoring (Dallas-Fort Worth, TX), I developed curriculum and instructed for their PSAT, SAT, and ACT preparation program. I watched my students exceed their program requirements and achieve scholarship-level scores!
 
 My rate for test preparation is **$60 per one-hour session.** 
 Any take-home materials, such as homeworks and tests, is **free of charge!** I'm always happy to provide practice materials.
