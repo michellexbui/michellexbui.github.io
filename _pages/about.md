@@ -14,6 +14,8 @@ Feel free to reach out to me via email at mxbui@umich.edu
 
 ## About my research experience
 
+I am working on my PhD in the [Space Sciences Department](https://clasp.engin.umich.edu) at University of Michigan, where I work with Dr. Daniel Welling and Dr. Tuija Pulkkinen. Currently, I look at auroral data from DMSP to compare to the latest space physics models.
+
 I finished my MS in Atmospheric Sciences at Cornell University, where I worked with Dr. David Hysell's [aeronomy research group](http://landau.geo.cornell.edu) to study small-scale irregularities in Earth's E-region ionosphere. These small-scale irregularities occur in dense, sporadic ionization layers, which we can observe through [coherent scatter radar echoes](http://landau.geo.cornell.edu/zeman.html). The radar echoes revealed structures and patterns within these ionization layers. With the help of Dr. Miguel Larsen, we connected these structures and patterns with the plausible behavior of dynamic thermospheric winds in the upper atmosphere. I simulated this wind behavior and tested its possibility of driving a plasma response that resembled our observations ([Bui et al., 2023](https://doi.org/10.1029/2022JA030929); [Hysell et al., 2024](https://doi.org/10.1029/2024JA033088)).
 
 Previously, I completed an Honors B.S. in Physics with minor in Mathematics at University of Texas at Arlington. During my undergraduate degree, I worked for two geospace physics research groups.
