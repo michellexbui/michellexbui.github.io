@@ -19,6 +19,7 @@ Education
 
 Research experience
 ======
+* Fall 2025-Present: Graduate Student Research Assistant with Dr. Daniel Welling and Tuija Pulkkinen
 * Fall 2021-Fall 2024: Graduate Research Assistant with Dr. David Hysell at Cornell University
   * Simulating coupled ion-neutral dynamics in the lower E-Region of the ionosphere and lower thermosphere
   * Analyzed coherent scatter radar data to observe structuring of sporadic-E ionization layers.
