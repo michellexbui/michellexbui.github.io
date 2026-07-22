@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-I have over seven years of experience in tutoring, instruction, and test preparation for a variety of science and math topics at the college/university level, high school level, and middle school level. Based on your work, I also prepare exam review materials free of charge. I enjoy providing extra review materials for students!
+I have over seven years of instruction, curriculum/program development, and tutoring experience for a variety of science and math topics at the college/university level, high school level, and middle school level. Based on your needs, I also prepare review materials free of charge!
 
 # Subject-Based Tutoring
+
+At the Baker Center (CRLA Level 3) for Learning at Tompkins-Cortland Community College (Cortland, NY), I served as an adjunct tutor physics and college-level mathematics. At Porter Tutoring (Dallas-Fort Worth, TX), I served as a curriculum developer, homeschool instructor, and high school to early college tutor for various science and math topics. I also held online and at-home tutoring services in addition to my hours at professional tutoring centers. 
 
 | One-on-one Tutoring         | Cost per one-hour session   |   
 | --------------------------- | --------------------------- |
@@ -48,7 +50,7 @@ My available subjects include:
 
 # Test Preparation
 
-At Porter Tutoring (Dallas-Fort Worth, TX), I developed curriculum and instructed for their PSAT, SAT, and ACT preparation program. I watched my students exceed their program requirements and achieve scholarship-level scores!
+I also developed curriculum and instructed for the ACT, SAT, and PSAT preparation programs at Porter Tutoring in Dallas-Fort Worth, TX. I watched my students exceed their program requirements and achieve scholarship-level scores!
 
 My rate for test preparation is **$60 per one-hour session.** 
 Any take-home materials, such as homeworks and tests, is **free of charge!** I'm always happy to provide practice materials.
