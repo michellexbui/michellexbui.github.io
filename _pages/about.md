@@ -36,4 +36,4 @@ Through my local chapter of Women in Physics at UT Arlington, I also founded an 
 
 Aside from academics, I spend my time enjoying music and amateurly playing instruments. Painting, embroidering, and cooking are some of my favorite ways to relax. Recent additions to my favorite media include Anatomy of a Murder (1959) and Succession (2018-2023). 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5NB7l-1kcgLGMqCgrOrR-ek2FJHURhFX0lYH5om7Zkc"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=nQDb0b6EpyHaXj6cZNvFsTUNE7AcSAd38ADMpFozf7E"></script>
